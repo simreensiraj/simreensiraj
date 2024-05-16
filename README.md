@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in c/c++
 - 
-- 🌱 I’m currently learning react.js & less.js
+- 🌱 I’m currently learning c++ and json
 - 
 - 📫 You can reach me in -
 - simreensiraj@gmail.com
