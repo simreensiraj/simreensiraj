@@ -2,7 +2,7 @@
 
 👀 I’m interested in c/c++, python and baking brownies ;)
 
-🌱 I’m currently learning c++ and json
+🌱 I’m currently learning react
 
 📫 You can reach me by email - simreensiraj@gmail.com
 Or you can send me a DM on instagram where I'd mindlessly scroll for hours - @ffs.simreen
