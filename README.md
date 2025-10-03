@@ -1,8 +1,8 @@
 👋 Hi, I’m Simreen
 
-👀 I’m interested in c/c++, python and baking brownies ;)
+👀 I’m interested in c/c++, python
 
-🌱 I’m currently learning react
+🌱 I’m currently learning javascript (specifically playing around with react.js)
 
 📫 You can reach me by email - simreensiraj@gmail.com
 Or you can send me a DM on instagram where I'd mindlessly scroll for hours - @ffs.simreen
